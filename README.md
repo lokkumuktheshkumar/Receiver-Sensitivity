@@ -60,6 +60,9 @@ Steps:
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
 ---
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-28 at 2 59 02 PM" src="https://github.com/user-attachments/assets/ac430172-d5bc-4cd9-815f-cc16f89946f2" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-28 at 2 59 16 PM" src="https://github.com/user-attachments/assets/1674c2e0-9453-4572-83f3-6885bf623aeb" />
+
 
 ## Report
 Your report should include:
